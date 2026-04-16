@@ -1,6 +1,6 @@
 # Sales Analysis Dashboard
 
-![Sales Dashboard](EDA_Images/gif.gif)
+![Sales Dashboard](EDA_images/sales_powerbi.gif)
 
 ---
 
@@ -63,7 +63,7 @@ This project presents an end-to-end **Sales Analysis Dashboard** built using Pow
 
 ### Overall Revenue Performance
 
-![Month](EDA_Images/month.jpg)
+![Month](EDA_images/seasonality.png)
 
 * Sales exhibit strong **seasonality**, with a significant peak in **November** across both years, likely driven by holiday demand.
 * A noticeable decline in **December** is observed, which may be due to **post-peak normalization**.
@@ -73,7 +73,7 @@ This project presents an end-to-end **Sales Analysis Dashboard** built using Pow
 
 ## Product Performance Insights
 
-![Product](EDA_Images/Products.jpg)
+![Product](EDA_images/product.png)
 
 * Overall Product performance is good.
 * However, Certain products show **extremely high return rates (>90%)**, suggesting:
@@ -87,7 +87,7 @@ This project presents an end-to-end **Sales Analysis Dashboard** built using Pow
 
 ## Customer & Order Analysis
 
-![Customer](EDA_Images/Customers.jpg)
+<!-- ![Customer]() -->
 
 * Customer analysis includes both **registered and unknown users**, with missing customer IDs treated as "Unknown" to preserve data integrity.
 * Key KPIs analyzed:
@@ -101,7 +101,7 @@ This project presents an end-to-end **Sales Analysis Dashboard** built using Pow
 
 ## Country-Level Insights
 
-![Country](EDA_Images/Country.jpg)
+![Country](EDA_images/country.png)
 
 * The **United Kingdom dominates sales (~84%)**, indicating heavy geographic concentration.
 * This concentration significantly influences overall KPIs such as **AOV and total revenue**.
