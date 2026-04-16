@@ -76,7 +76,10 @@ This project presents an end-to-end **Sales Analysis Dashboard** built using Pow
 ![Product](EDA_images/product.png)
 
 * Overall Product performance is good.
+
 * However, Certain products show **extremely high return rates (>90%)**, suggesting:
+
+![Product](EDA_images/return_prods.png)
 
   * Potential product quality issues
   * Incorrect listings or pricing
